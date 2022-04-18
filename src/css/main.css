@@ -1,0 +1,38 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+body::before {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: "Montserrat, sans-serif";
+}
+
+.full {
+  height: 100vh;
+}
+
+.main-title {
+  transition: .5s;
+}
+
+.main-title:hover {
+  font-size: 40px;
+  transition: .5s;
+}
+
+svg {
+  color: #FF5757;
+}
+
+.socialnet {
+  color: #FF5757;
+  transition: .4s;
+}
+
+.socialnet:hover {
+  font-size: 35;
+  transition: .4s;
+}
+/*# sourceMappingURL=main.css.map */
