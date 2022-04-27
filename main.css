@@ -1,0 +1,25 @@
+.fa-discord {
+  color:  #5865F2;
+}
+
+.fa-twitter {
+  color:  #1DA1F2;
+}
+
+.fa-youtube {
+  color:   #c4302b;
+}
+
+.fa-reddit {
+  color:  #FF5700;
+}
+
+a .nav-link {
+  color: #FF5757;
+}
+
+media only screen and (max-width: 900px) {
+  img {
+    width: 200px;
+  }
+}
